@@ -77,6 +77,67 @@ The following subjects/sessions are missing cognitive data:
 - sub-23582, ses-1
 - sub-20812, ses-2 had a session 1 that was started, but incomplete, and a session 2 that began a couple of days later. As such, we only have CNB data from ses-1, and ses-3, but ses-2 did not have a separate CNB administered.
 
+### Self-report data
+
+Participants completed a number of self-report scales. These included:
+- Adverse Life Experiences Scale (ALES)
+- Affective Lability Scale (ALS-18)
+- Affective Reactivity Index (ARI)
+- Altman Self-Rating Mania Scale (ASRM)
+- Beck Depression Inventory (modified - child, no suicide question) (BDI-1A)
+- Behavioral Inhibition/Activation System (child version) (BIS-BAS Child)
+- Extended Strengths and Weaknesses Assessment of ADHD Symptoms and Normal Behavior (E-SWAN ADHD)
+- Extended Stengths and Weaknesses Assessment of DMDD Symptoms and Normal Behavior (E-SWAN DMDD)
+- The Motivation and Pleasure Scale - Self-Report (MAPS-SR)
+- Positive and Negative Affect Schedule (child version) (PANAS)
+- PROMIS Pediatric Anxiety (PPA)
+- PRIME Screen (Self-Report)
+- Revised Physical Anhedonia Scale (RPAS)
+- Revised Social Anhedonia Scale (RSAS)
+- Substance Use Questionnaire
+- Tanner Developmental Stages Scale - Boys
+- Tanner Developmental Stages Scale - Girls
+- Wolf Intrinsic Motivation/Extrinsic Motivation Scale (short version) (Wolf IM/EM)
+- State-Trait Anxiety Inventory (STAI) (before the scan, each participant took the entire STAI, and after the scan, each participant took the state anxiety items of the scale)
+
+Due to complexities in how puberty is staged, we do not include summary scores and only include item-level data for the Tanner Developmental Stages scales (Girl and Boy). Due to the lack of participants that endorsed drug use, and the complexity of substance use, we also do not include summary scores and only include item-level data for the Substance Use Questionnaire.
+
+See below for a summary of self-report data that is missing. Note that for sub-20812, ses-2 is a continuation of ses-1 that occurred a few days after ses-1, so we only have data from ses-1 and ses-3 for this participant, as expected.
+- The following subjects are missing entirely from the pre-scan STAI scale: sub-20410
+- The following sessions are missing entirely from the pre-scan STAI scale: sub-21118, ses-1; sub-20310, ses-1
+- The following sessions are incomplete in the pre-scan STAI scale: sub-21035, ses-3
+
+- The following subjects are missing entirely from the post-scan STAI scale: sub-20125, sub-20410, sub-20448, sub-20612
+- The following sessions are missing entirely from the post-scan STAI scale: sub-20139, ses-1; sub-20238, ses-2; sub-20252, ses-2; sub-20310, ses-1; sub-20310, ses-2;  sub-20691, ses-2; sub-20818, ses-2; sub-20923, ses-1; sub-21118, ses-1; sub-21141, ses-1; sub-21161, ses-1
+- The following sessions are incomplete in the post-scan STAI scale:  sub-20124, ses-1; sub-20214, ses-2; sub-20427, ses-1; sub-20923, ses-2; sub-21554, ses-2; sub-21560, ses-2; sub-21580, ses-2; sub-22617, ses-2; sub-22618, ses-2; sub-22653, ses-1; sub-22670, ses-1; sub-23113, ses-1; sub-23582, ses-1
+
+- The following session is missing entirely from the main self-report scale battery: sub-20936, ses-2
+
+Given the large amount of self-report data, due to logistical constraints not every subject completed every scale at each session. Please see below for a summary of the percentage of sessions that are missing each scale:
+- PPA: 22.4%
+- PRIME: 0%
+- ALES: 22.4%
+- PANAS: 41.7%
+- Tanner Boys: 64.1%
+- Tanner Girls: 64.1%
+- Substance Use Questionnaire: 39.9%
+- ARI: 0.9%
+- E-SWAN ADHD: 1.8%
+- BDI: 1.3%
+- MAPSSR: 1.3%
+- ASRM: 20.6%
+- E-SWAN DMDD: 21.9%
+- BIS-BAS: 4.9%
+- RPAS: 25.1%
+- RSAS: 24.7%
+- ALS-18: 25.1%
+- Wolf IM/EM: 10.3% 
+
+There are a few scales with missing data due to protocol changes:
+- For the Altman Self-Rating Mania Scale, at the beginning of the study, most participants completed the scale only at the first session and third session, but not at the second session. As the study went on, almost all of the participants at later enrollments completed this scale at the second session as well.
+- For the Positive and Negative Affect Schedule, at the beginning of the study, most participants completed the scale only at the third session. As the study progressed, many of the participants at later enrollments completed this scale at session 1 and session 2 as well.
+- For the Revised Physical Anhedonia Scale and the Revised Social Anhedonia Scale, at the beginning of the study, most participants completed the scale only at the first session and third session, but not at the second session. As the study went on, almost all of the participants at later enrollments completed this scale at the second session as well.
+
 ### Other data
 
 The acquisition date and time for each session was rounded to the 15th of the month and the nearest hour, and stored in the `*_sessions.tsv` files.
