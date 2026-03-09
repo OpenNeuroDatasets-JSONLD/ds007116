@@ -178,5 +178,6 @@
     "ImageOrientation": "LAS+",
     "ParallelReductionFactorInPlane": 1,
     "PartialFourierDirection": "y",
-    "B0FieldIdentifier": "fmap_dwi_ap_ses-3"
+    "B0FieldIdentifier": "fmap_dwi_ap_ses-3",
+    "IntendedFor": "ses-3/dwi/sub-20253_ses-3_run-01_dwi.nii.gz"
 }

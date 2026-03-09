@@ -157,5 +157,6 @@
     "ImageOrientation": "LAS+",
     "ParallelReductionFactorInPlane": 1,
     "PartialFourierDirection": "y",
-    "B0FieldIdentifier": "fmap_fmri_pa_ses-1"
+    "B0FieldIdentifier": "fmap_fmri_ses_1",
+    "IntendedFor": "ses-1/func/sub-20259_ses-1_task-nback_run-01_bold.nii.gz"
 }

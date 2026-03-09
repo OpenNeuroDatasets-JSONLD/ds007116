@@ -178,5 +178,6 @@
     "Dim2Size": 140,
     "Dim3Size": 81,
     "NumVolumes": 1,
-    "ImageOrientation": "LAS+"
+    "ImageOrientation": "LAS+",
+    "IntendedFor": "ses-1/dwi/sub-23303_ses-1_run-01_dwi.nii.gz"
 }

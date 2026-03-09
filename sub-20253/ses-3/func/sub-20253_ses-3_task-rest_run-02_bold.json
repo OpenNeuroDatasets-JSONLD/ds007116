@@ -156,5 +156,8 @@
     "Dim2Size": 90,
     "Dim3Size": 60,
     "NumVolumes": 383,
-    "ImageOrientation": "LAS+"
+    "ImageOrientation": "LAS+",
+    "B0FieldSource": [
+        "fmap_fmri_ses_3"
+    ]
 }

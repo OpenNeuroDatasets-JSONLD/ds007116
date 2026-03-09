@@ -146,7 +146,7 @@
     "WipMemBlock": "78fc834d-cb4f-4e0c-9cb6-c35066b0105f",
     "ParallelReductionFactorInPlane": 1,
     "PartialFourierDirection": "y",
-    "B0FieldIdentifier": "fmap_fmri_ap_ses-3",
+    "B0FieldIdentifier": "fmap_fmri_ses_3",
     "Obliquity": "True",
     "VoxelSizeDim1": 2.4000000953674316,
     "VoxelSizeDim2": 2.4000000953674316,
@@ -155,5 +155,9 @@
     "Dim2Size": 90,
     "Dim3Size": 60,
     "NumVolumes": 1,
-    "ImageOrientation": "LAS+"
+    "ImageOrientation": "LAS+",
+    "IntendedFor": [
+        "ses-3/func/sub-20712_ses-3_task-nback_run-01_bold.nii.gz",
+        "ses-3/func/sub-20712_ses-3_task-rest_run-01_bold.nii.gz"
+    ]
 }
