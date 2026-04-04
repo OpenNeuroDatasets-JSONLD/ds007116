@@ -9,6 +9,9 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20220505",
     "DeviceSerialNumber": "167024",
+    "Dim1Size": 120,
+    "Dim2Size": 160,
+    "Dim3Size": 96,
     "DwellTime": 1.57e-05,
     "EchoNumber": 1,
     "EchoTime": 0.0075,
@@ -16,6 +19,7 @@
     "FlipAngle": 15,
     "HeudiconvVersion": "1.3.2",
     "ImageComments": "20712_12367@BBL:EFR01",
+    "ImageOrientation": "RAS+",
     "ImageOrientationPatientDICOM": [
         1,
         4.897e-12,
@@ -43,6 +47,8 @@
     "ManufacturersModelName": "Prisma_fit",
     "MatrixCoilMode": "GRAPPA",
     "Modality": "MR",
+    "NumVolumes": 1,
+    "Obliquity": "False",
     "ParallelReductionFactorInPlane": 2,
     "PartialFourier": 1,
     "PatientPosition": "HFS",
@@ -80,13 +86,7 @@
     "SoftwareVersions": "syngo MR E11",
     "StationName": "HUP FNDBA MR2",
     "TxRefAmp": 241.933,
-    "Obliquity": "False",
     "VoxelSizeDim1": 1.5,
     "VoxelSizeDim2": 1.5,
-    "VoxelSizeDim3": 1.5,
-    "Dim1Size": 120,
-    "Dim2Size": 160,
-    "Dim3Size": 96,
-    "NumVolumes": 1,
-    "ImageOrientation": "RAS+"
+    "VoxelSizeDim3": 1.5
 }

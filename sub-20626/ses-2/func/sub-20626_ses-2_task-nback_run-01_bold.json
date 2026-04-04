@@ -2,6 +2,9 @@
     "AcquisitionMatrixPE": 90,
     "AcquisitionNumber": 1,
     "AcquisitionTime": "18:51:54.952500",
+    "B0FieldSource": [
+        "fmap_fmri_ses_2"
+    ],
     "BandwidthPerPixelPhaseEncode": 21.786,
     "BaseResolution": 90,
     "BodyPartExamined": "BRAIN",
@@ -11,12 +14,16 @@
     "ConversionSoftwareVersion": "v1.0.20220505",
     "DerivedVendorReportedEchoSpacing": 0.000510012,
     "DeviceSerialNumber": "167024",
+    "Dim1Size": 90,
+    "Dim2Size": 90,
+    "Dim3Size": 60,
     "EchoTime": 0.03,
     "EchoTrainLength": 90,
     "EffectiveEchoSpacing": 0.000510012,
     "FlipAngle": 52,
     "HeudiconvVersion": "1.3.2",
     "ImageComments": "SMS_ABCD_V1.2; MB=6; FOVshift=3; K_PE=5; K_RO=5; LeakBlockOn;\r\n20626_12182@BBL:EFR01",
+    "ImageOrientation": "LAS+",
     "ImageOrientationPatientDICOM": [
         0.999743,
         0.00225328,
@@ -42,6 +49,8 @@
     "ManufacturersModelName": "Prisma_fit",
     "Modality": "MR",
     "MultibandAccelerationFactor": 6,
+    "NumVolumes": 522,
+    "Obliquity": "True",
     "PartialFourier": 1,
     "PatientPosition": "HFS",
     "PercentPhaseFOV": 100,
@@ -144,14 +153,8 @@
     "TaskName": "nback",
     "TotalReadoutTime": 0.045391,
     "TxRefAmp": 322.508,
-    "WipMemBlock": "569a2f4b-02f4-4727-9caf-ab94604a1540",
-    "Obliquity": "True",
     "VoxelSizeDim1": 2.4000000953674316,
     "VoxelSizeDim2": 2.4000000953674316,
     "VoxelSizeDim3": 2.4000000953674316,
-    "Dim1Size": 90,
-    "Dim2Size": 90,
-    "Dim3Size": 60,
-    "NumVolumes": 522,
-    "ImageOrientation": "LAS+"
+    "WipMemBlock": "569a2f4b-02f4-4727-9caf-ab94604a1540"
 }
