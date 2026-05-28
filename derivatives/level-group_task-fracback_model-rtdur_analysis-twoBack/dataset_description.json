@@ -7,12 +7,6 @@
             "Description": "A Nilearn Second Level Model-level GLM.",
             "Name": "nilearn",
             "Version": "0.12.1"
-        },
-        {
-            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
-            "Description": "A Nilearn Second Level Model-level GLM.",
-            "Name": "nilearn",
-            "Version": "0.12.1"
         }
     ]
 }
