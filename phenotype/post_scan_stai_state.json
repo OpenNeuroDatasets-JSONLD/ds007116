@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "State-Trait Anxiety Inventory. Note that item-wise data is in the TSV file exactly as reponses were recorded, but items 1, 2, 5, 8, 10, 11, 15, 16, 19, and 20 were reverse-scored when taken into account for the total and average scores.",
-        "Instructions": "These questions are about certain things that may have happened to you over the last year. Please indicate whether each happened, and if so, how much it affected you. (Questions 1-11); Please indicate whether each event happened to you in the last year, and if so, whether it was a good or bad experience and how much it affected you. (Questions 12-25)",
+        "Instructions": "A number of statements which people have used to describe themselves are given below. Read each statement and then click on the appropriate button to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.",
         "TermURL": "https://www.researchgate.net/publication/235361542_Manual_for_the_State-Trait_Anxiety_Inventory_Form_Y1_-_Y2"
     },
      "participant_id": {
