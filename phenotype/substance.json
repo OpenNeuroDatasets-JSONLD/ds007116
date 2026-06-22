@@ -36,14 +36,14 @@
         }
     },
     "substance_practice_fam___4": {
-        "Description": "Which of the following are in your family? [Dog]",
+        "Description": "Which of the following are in your family? [Brother]",
         "Levels": {
             "0": "Unchecked",
             "1": "Checked"
         }
     },
     "substance_practice_fam___5": {
-        "Description": "Which of the following are in your family? [Cat]",
+        "Description": "Which of the following are in your family? [Dog]",
         "Levels": {
             "0": "Unchecked",
             "1": "Checked"
@@ -60,7 +60,7 @@
         "Description": "Have you ever used tobacco (for example cigarettes, cigars, chewing tobacco)?",
         "Levels": {
             "1": "I have never tried tobacco",
-            "2": "I have never tried tobacco, but might sometimes",
+            "2": "I have never tried tobacco, but might sometime",
             "3": "I have tried tobacco, but have not used it in the past 12 months",
             "4": "I have tried tobacco, but have used it only once in a while in the past 12 months",
             "5": "I have tried tobacco, and have used it a lot in the past 12 months"
@@ -185,7 +185,7 @@
     "substance_tob_090": {
         "Description": "How old were you when you first smoked a pipe or cigar everyday or almost everyday?",
         "Levels": {
-            "1": "11 years old",
+            "1": "11 years old or younger",
             "2": "12 years old",
             "3": "13 years old",
             "4": "14 years old",
@@ -195,7 +195,7 @@
             "8": "18 years old",
             "9": "19 years old",
             "10": "20 years old",
-            "11": "21 years old"
+            "11": "21 years old or older"
         }
     },
     "substance_tob_130": {
@@ -277,7 +277,7 @@
         "Description": "How old were you when you first tried more alcohol than the small amount allowed by your parents?",
         "Levels": {
             "0": "Never tried it",
-            "1": "11 years ol dor younger",
+            "1": "11 years old or younger",
             "2": "12 years old",
             "3": "13 years old",
             "4": "14 years old",
@@ -494,13 +494,6 @@
             "19": "29 years old",
             "20": "30 years old",
             "21": "31 years old or older"
-        }
-    },
-    "substance_mar_100___1": {
-        "Description": "How can you get marijuana or hashish? Select all that apply. [I could get some at home]",
-        "Levels": {
-           "0": "Unchecked",
-           "1": "Checked"
         }
     },
     "substance_mar_100___1": {
@@ -782,7 +775,7 @@
         }
     },
     "substance_othr_060": {
-        "Description": "Have you used: Inhalants (gasoline, glue, aerosol sparys) Amyl Nitrate or Butyl Nitrate (poppers, rush, locker rooms)?",
+        "Description": "Have you used: Inhalants (gasoline, glue, aerosol sprays) Amyl Nitrate or Butyl Nitrate (poppers, rush, locker rooms)?",
         "Levels": {
            "1": "Yes, in the last 12 months",
            "2": "Yes, but not in the last 12 months",
@@ -828,7 +821,7 @@
         }
     },
     "substance_othr_100": {
-        "Description": "Have you used: Heroin (horse, smack) or other opiates (methadone, opium, morphine, codine, etc.)",
+        "Description": "Have you used: Heroin (horse, smack) or other opiates (methadone, opium, morphine, codeine, etc.)",
         "Levels": {
            "1": "Yes, in the last 12 months",
            "2": "Yes, but not in the last 12 months",
@@ -1032,7 +1025,7 @@
         }
     },
     "drugs_depressants___5": {
-        "Description": "Which depressants have you used? [Barbituates]",
+        "Description": "Which depressants have you used? [Barbiturates]",
         "Levels": {
            "0": "Unchecked",
            "1": "Checked"
